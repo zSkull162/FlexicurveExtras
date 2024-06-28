@@ -28,3 +28,5 @@ Currently, this packages includes presets for 5 different light types. Those bei
 ### Extras
 ![Extra1](https://github.com/zSkull162/FlexicurveExtras/assets/70001936/51baeb54-6465-4715-a390-5247483fa3d4)
 ![Extra2](https://github.com/zSkull162/FlexicurveExtras/assets/70001936/ff4f10fe-8890-4d77-bd3e-5f1bf0975e6f)
+Basic HD:
+![BasicHD](https://github.com/zSkull162/FlexicurveExtras/assets/70001936/6990c9c7-298a-4fcd-93d4-c37851c9a64e)
